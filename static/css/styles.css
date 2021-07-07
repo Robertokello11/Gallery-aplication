@@ -1,8 +1,8 @@
 h2 {
 color:rgb(251, 236, 25);
 margin-top:2%;
-font-size:34px;
-font-family: 'Special Elite', italic;
+font-size:35px;
+font-family: 'Special Elite', cursive;
 }
 .boded{
 background-image:url(/static/images/bac.jpg);
@@ -14,7 +14,7 @@ background-size:cover;
 .overlay{
 margin:0;
 padding:0;
-background-color:rgba(15, 83, 30, 0.664);
+background-color:rgba(15, 83, 30, 0.253);
 }
 .imagea{
 margin-top:34%;
