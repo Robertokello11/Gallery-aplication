@@ -1,8 +1,8 @@
 h2 {
-color:rgb(219, 159, 159);
+color:rgb(251, 236, 25);
 margin-top:2%;
-font-size:35px;
-font-family: 'Special Elite', cursive;
+font-size:34px;
+font-family: 'Special Elite', italic;
 }
 .boded{
 background-image:url(/static/images/bac.jpg);
@@ -14,7 +14,7 @@ background-size:cover;
 .overlay{
 margin:0;
 padding:0;
-background-color:rgba(15, 31, 83, 0.3);
+background-color:rgba(15, 83, 30, 0.664);
 }
 .imagea{
 margin-top:34%;
@@ -25,7 +25,7 @@ a{
 text-decoration:none;
 }
 .image{
-font-family: 'Special Elite', cursive;
+font-family: 'Special Elite', italic;
 margin-bottom:18%;
 
 }
@@ -45,7 +45,7 @@ padding:3%;
 border:none;
 }
 h3{
-color:white;
+color:rgb(202, 200, 60);
 font-family: 'Special Elite', cursive;
 }
 #locations{
