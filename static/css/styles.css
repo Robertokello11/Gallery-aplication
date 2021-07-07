@@ -1,11 +1,11 @@
 h2 {
-color:white;
+color:rgb(219, 159, 159);
 margin-top:2%;
 font-size:35px;
 font-family: 'Special Elite', cursive;
 }
 .boded{
-background-image:url(/static/images/bg.jpeg);
+background-image:url(/static/images/bac.jpg);
 padding-top:2%;
 background-repeat:no-repeat;
 background-position:center;
@@ -14,7 +14,7 @@ background-size:cover;
 .overlay{
 margin:0;
 padding:0;
-background-color:rgba(49, 83, 15,0.3);
+background-color:rgba(15, 31, 83, 0.3);
 }
 .imagea{
 margin-top:34%;
@@ -31,7 +31,7 @@ margin-bottom:18%;
 }
 body{
  scroll-behavior: smooth;
-background-image:url(/static/images/g.jpg);
+background-image:url(/static/images/ged.jpg);
 background-attachment:fixed;
 background-repeat:no-repeat;
 background-position:center;
@@ -39,8 +39,8 @@ background-size:cover;
 }
 
 .modalcard{
-background-color:rgba(10,10,10,0.8);
-color:white;
+background-color:rgba(207, 24, 24, 0.116);
+color:rgb(223, 130, 130);
 padding:3%;
 border:none;
 }
@@ -64,7 +64,7 @@ font-family: 'Yeseva One', cursive;
 font-family: 'Vollkorn', serif;
 }
 #foundnon{
-
+font-weight: 100;
 }
 #found{
 margin-bottom:3%;
